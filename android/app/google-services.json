@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810758968068",
+    "project_id": "sign-bf771",
+    "storage_bucket": "sign-bf771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810758968068:android:a3addf4e72a16fa57cf651",
+        "android_client_info": {
+          "package_name": "com.example.sign_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810758968068-3ptmjmcuiednhb1v6a3vaqugn6knds3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYWAXBMYvq_2WrZLyDNI3Kw1K0h70TAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810758968068-3ptmjmcuiednhb1v6a3vaqugn6knds3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
