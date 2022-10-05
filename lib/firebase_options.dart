@@ -67,6 +67,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '810758968068',
     projectId: 'sign-bf771',
     storageBucket: 'sign-bf771.appspot.com',
+    androidClientId: '810758968068-nsul1rsik4h1q7lsthnv3335gqru9bds.apps.googleusercontent.com',
     iosClientId: '810758968068-dkpd1ngrs79ngtsa3n2hh31oc0cdbk1t.apps.googleusercontent.com',
     iosBundleId: 'com.example.signGoogle',
   );
@@ -77,6 +78,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '810758968068',
     projectId: 'sign-bf771',
     storageBucket: 'sign-bf771.appspot.com',
+    androidClientId: '810758968068-nsul1rsik4h1q7lsthnv3335gqru9bds.apps.googleusercontent.com',
     iosClientId: '810758968068-dkpd1ngrs79ngtsa3n2hh31oc0cdbk1t.apps.googleusercontent.com',
     iosBundleId: 'com.example.signGoogle',
   );
