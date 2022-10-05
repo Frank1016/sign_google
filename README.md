@@ -1,6 +1,6 @@
 # sign_google
 
-A new Flutter project.
+A new Flutter project to enable sign_in with Google on Android, iOS devices and Web browsers.
 
 ## Getting Started
 
